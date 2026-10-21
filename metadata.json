@@ -1,0 +1,6 @@
+{
+  "name": "PICAS — Photographic Curation & Analysis System",
+  "description": "Multi-device photographic curation and analysis workstation implementing the Geräte-×-Säulen-Architektur: iPhone triage, Leitstand inspection, iPad Leuchtpult canvas, and OLED gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
